@@ -6,18 +6,28 @@
 
 ![gambar tugas](![1](https://github.com/Nadiatulumah2/uts-bilangan-/assets/129835302/afb2272f-a945-4c6e-92eb-6473397c5a3a)
 
-# Langkah-Langkah
+## Daftar Isi
+| No.| DAFTAR ISI |        Here                           |
+|----|------------|----------------------------------------|
+| 1. | Layout     | [Click Here](#layout)               |
+| 2. | Java       | [Click Here](#java-class)     |
+| 3. | Design     | [Click Here](#tampilan-design)      |
+| 4. | Hasil Run  | [Click Here](#hasil-run)            |
 
-1. Hal yang pertama kita harus lakukan adalan membuat project barunya terlebih dahulu dengan nama project "tugasenam"
-
-2. Kemudian pada layout activity_main kita tambahkan 3 "button" dan 1 "textview" seperti berikut
+> - Disini, saya akan mengerjakan dan menjelaskan tugas dari mata kuliah "Pemrograman Mobile 1" yaitu membuat sebuah aplikasi untuk menampilkan bilangan Fibonacci. Selain itu saya juga akan merubah sedikit tampilan dari yang diperintahkan pada tugas, yaitu menambah tombol `Restart` dan menambah tombol `Masukkan Angka Limit` 
 
 
+## Layout
+Pada layout ini, saya membuat tiga button dan satu textview :
+1. `button_limit`, berfungsi sebagai tombol “Set Limit” yang nantinya ketika di tekan akan muncul sebuah pop-up untuk masukan limit angka yang ingin kita hitung.
+2. `button_count`, berfungsi sebagai tombol “count” yang nantinya ketika tombol ditekan akan menghitung bilangan fibonaccinya sesuai dengan yang kita limit. Juga berbeda warna pada setiap angka, agar tidak keliru.
+3. 'button_restart', berfungsi sebagai tombol restart yang nantinya angka akan kembali ke awal.
+4. Textview `show_count`, yang berfungsi untuk menampilkan angka atau bilangan fibonaccinya yang tepat berada di tengah.
 
-3. Pada button yang pertama itu berfungsi sebagai tombol "Toast" yang nantinya ketika kita tekan akan muncul sebuah toast message yaitu "Bilangan Fibonacci". Dan button yang kedua, berfungsi sebagai tombol “count” yang nantinya ketika tombol ditekan akan menghitung bilangan fibonaccinya. lalu kemudian yang terakhir Textview, yang berfungsi untuk menampilkan angka atau bilangan fibonaccinya yang tepat berada di tengah.
+Berikut adalah coding pada menu layout :
 
-4. langkah yang perlu kita lakukan selajutnya adalah masukkan codingan didalam activity_fibonacci seperti berikut
-# activity_toast.xml
+> - **activity_toast.xml**
+```
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
