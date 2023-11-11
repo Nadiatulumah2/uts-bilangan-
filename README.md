@@ -1,2 +1,1 @@
-# uts-bilangan-
-deret fibonnaci
+# uts-bilangan-deret fibonnaci
