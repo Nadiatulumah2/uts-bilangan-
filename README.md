@@ -4,7 +4,7 @@
 ### Kelas          : TI.22.A5 ### 
 ### Dosen Pengampu : Donny Maulana S.Kom., M.M.S.I
 
-![gambar tugas](![1](https://github.com/Nadiatulumah2/uts-bilangan-/assets/129835302/afb2272f-a945-4c6e-92eb-6473397c5a3a)
+![gambar tugas](https://github.com/Nadiatulumah2/uts-bilangan-/assets/129835302/afb2272f-a945-4c6e-92eb-6473397c5a3a)
 
 ## Daftar Isi
 | No.| DAFTAR ISI |        Here                           |
