@@ -5,7 +5,6 @@
 ### Dosen Pengampu : Donny Maulana S.Kom., M.M.S.I
 
 ![gambar tugas](![1](https://github.com/Nadiatulumah2/uts-bilangan-/assets/129835302/afb2272f-a945-4c6e-92eb-6473397c5a3a)
-)
 
 # Langkah-Langkah
 
@@ -18,8 +17,8 @@
 3. Pada button yang pertama itu berfungsi sebagai tombol "Toast" yang nantinya ketika kita tekan akan muncul sebuah toast message yaitu "Bilangan Fibonacci". Dan button yang kedua, berfungsi sebagai tombol “count” yang nantinya ketika tombol ditekan akan menghitung bilangan fibonaccinya. lalu kemudian yang terakhir Textview, yang berfungsi untuk menampilkan angka atau bilangan fibonaccinya yang tepat berada di tengah.
 
 4. langkah yang perlu kita lakukan selajutnya adalah masukkan codingan didalam activity_fibonacci seperti berikut
-5.activity_toast.xml
-   <?xml version="1.0" encoding="utf-8"?>
+# activity_toast.xml
+<?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
