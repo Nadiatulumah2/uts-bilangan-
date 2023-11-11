@@ -253,11 +253,25 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 #Tampilan Design
+
+
+
 ![image](https://github.com/Nadiatulumah2/uts-bilangan-/assets/129835302/bc818d5f-b7c7-48c6-8a78-c8409d02b590)
+
+
+
 #Hasil Run
 
 
-https://github.com/Nadiatulumah2/uts-bilangan-/assets/129835302/2d7ba801-a797-462a-af4d-73cdacaa5d55
+
+
+
+https://github.com/Nadiatulumah2/uts-bilangan-/assets/129835302/bc43ee70-7e54-432a-a2be-372b769ca36d
+
+
+
+
+
 
 
 
